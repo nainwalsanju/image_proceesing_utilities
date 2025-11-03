@@ -38,6 +38,6 @@ This repository contains various MATLAB scripts for image processing. Each scrip
 1. Clone the repository:
 git clone https://github.com/nainwalsanju/image-processing-examples.git
 
-2. Open MATLAB and navigate to the cloned directory.
+2. Open MATLAB/OCTAVE and navigate to the cloned directory.
 
 3. Run the desired script by executing the corresponding MATLAB file.
